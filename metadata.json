@@ -1,0 +1,5 @@
+{
+  "name": "The Angry Web",
+  "description": "An anonymous public experiment collecting raw, first-person stories. We detect your Country location to index the global rage.",
+  "requestFramePermissions": []
+}
