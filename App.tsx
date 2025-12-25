@@ -105,7 +105,7 @@ const App: React.FC = () => {
             THE ANGRY WEB
           </h1>
           <img 
-            src="logo.png" 
+            src="\logo.png" 
             alt="The Angry Web Logo" 
             className="h-[7.5vw] sm:h-12 md:h-20 lg:h-24 w-auto object-contain shrink-0"
             onError={(e) => {
